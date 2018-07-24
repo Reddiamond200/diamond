@@ -1,0 +1,15 @@
+h1,h3
+{color:red; border-bottom: 2px solid blue; text-decoration:underline;
+} 
+.blue{color:blue;
+}
+.brown{ color:brown;
+}
+p{text-decoration:underline:overline;
+}
+
+blockquote{ line-height:1.8em;
+}
+
+img{ color:red;
+}
